@@ -1,4 +1,4 @@
-- 👋 Hi, I’m José
+👋 Hi, I’m José
 
 and I love Python!
 
